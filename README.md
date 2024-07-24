@@ -1,4 +1,10 @@
+![Welcome](./svg/welcome.svg)
+
 ## Hi there 👋
+
+- 🔭 I’m currently working on Alpha RoboAdvisor
+- 🌱 I’m currently learning React and some Frontend CI/CD skills
+- ⚡ Interests: AI, Web3, DApps,and Web Development
 
 <!--
 **ColinChiu87/ColinChiu87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
