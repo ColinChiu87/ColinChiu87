@@ -6,6 +6,9 @@
 - 🌱 I’m currently learning React and some Frontend CI/CD skills
 - ⚡ Interests: AI, Web3, DApps,and Web Development
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **ColinChiu87/ColinChiu87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
