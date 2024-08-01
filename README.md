@@ -71,17 +71,16 @@ Sunday                   45 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-YAML                     16 mins             ██████████████████████░░░   88.65 % 
-Markdown                 2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-ColinChiu87              18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
@@ -97,7 +96,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 31/07/2024 01:05:48 UTC
+ Last Updated on 01/08/2024 01:25:24 UTC
 <!--END_SECTION:waka-->
 
 <!--
