@@ -71,16 +71,16 @@ Sunday                   45 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Vue.js                   3 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   3 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+drum_set                 3 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -96,7 +96,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 17/11/2024 01:45:23 UTC
+ Last Updated on 18/11/2024 01:43:31 UTC
 <!--END_SECTION:waka-->
 
 <!--
