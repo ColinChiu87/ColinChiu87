@@ -71,18 +71,16 @@ Sunday                   41 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 14 mins             ███████████████░░░░░░░░░░   58.88 % 
-Other                    10 mins             ██████████░░░░░░░░░░░░░░░   40.94 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   25 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-KuanRu_Blog              25 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  25 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
@@ -98,7 +96,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 05/02/2025 01:35:45 UTC
+ Last Updated on 06/02/2025 01:36:02 UTC
 <!--END_SECTION:waka-->
 
 <!--
