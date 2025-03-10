@@ -32,11 +32,11 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Npm vs Yarn vs Pnpm：哪個套件管理工具最適合你？](https://colinchiu87.github.io/posts/Other-nodePackageManagers/)
 - [Html-pictureTag](https://colinchiu87.github.io/posts/Html-pictureTag/)
 - [『Git』怎麼寫 Commit Message 更好](https://colinchiu87.github.io/posts/Git-commitMessage/)
 - [震驚！使用這一個方法解放你的手機容量 - iCloud 共享相簿](https://colinchiu87.github.io/posts/Iphone-sharedAlbum/)
 - [敏捷式開發真的這麼棒？](https://colinchiu87.github.io/posts/Other-agile/)
-- [Day.js 將取代 Moment.js？](https://colinchiu87.github.io/posts/Js-dayjs/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Time 🕹
