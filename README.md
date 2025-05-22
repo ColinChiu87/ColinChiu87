@@ -2,10 +2,8 @@
 
 ## Hi there 👋
 
-- 🔭 I’m currently working on Alpha RoboAdvisor
 - 🌱 I’m currently learning React and some Frontend CI/CD skills
 - ⚡ Interests: AI, Web3, DApps,and Web Development
--
 
 ## My Skills 👓
 
