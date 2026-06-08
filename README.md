@@ -40,6 +40,8 @@
 ## Time 🕹
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2020%20mins-blue?style=flat)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -92,7 +94,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/06/2026 04:18:22 UTC
+ Last Updated on 08/06/2026 04:22:44 UTC
 <!--END_SECTION:waka-->
 
 <!--
